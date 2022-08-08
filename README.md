@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kompensator
-- 👀 I’m interested in deep learning medical imaging analysis
-- 🌱 I’m currently learning to learn 👀👀
-- 📫 How to reach me zdy3000@gmail.com
+- 👀 I’m deeply invetsed in deep learning medical imaging analysis
+- 🌱 Learning multi-modality and mult-task deep learning methods
+- 📫 Personal: zdy3000@gmail.com,   Academic: ding.y.zhang@mail.mcgill.ca
 
 <!---
 Kompensator/Kompensator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
